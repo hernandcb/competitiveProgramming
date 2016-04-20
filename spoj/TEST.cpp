@@ -1,3 +1,6 @@
+//	Author: hernandcb
+//	Date: 20/04/2016
+
 #include <iostream>
 
 int main()
