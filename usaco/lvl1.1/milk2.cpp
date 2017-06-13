@@ -42,7 +42,7 @@ int main(){
   }
   
   fout << work << " " << gap << endl;
-  
-  
+
+
   return 0;
 }
