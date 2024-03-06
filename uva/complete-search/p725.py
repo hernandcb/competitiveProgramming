@@ -1,3 +1,10 @@
+"""
+Division
+
+http://uva.onlinejudge.org/external/7/725.pdf
+tags: complete-search, easy, permutation
+"""
+
 import math
 
 test = 0
